@@ -1,0 +1,33 @@
+Q- React?
+A-React is a front-end JavaScript libary .
+*Creates SPA(single page application)
+*it follows the component -based approach which helps in building reusable UI Components.
+*it is used for developing complex and interactive web and mobile UI.
+*Even though it was open -sourced only in 2015, it has one of the largest communites supporting it.
+features of React:
+one way data flow
+jsx: js extension (js+html)
+component based 
+virtual Dom
+performance
+Q- Components?types of component?
+A-Components are the building blocks of React applications .
+these Components divide the entire React application's Ui into small, independent , and reusable pieces of code.
+TYPES: *Class components: referring to JavaScript classes.
+    *Functional components : referring to JavaScript function.
+Q- Props
+A-In ReactJS, the props are a type of object where the value of attributes of a tag is stored. The word “props” implies “properties”, and its working functionality is quite similar to HTML attributes. Basically, these props components are read-only components.23 nov. 2022
+
+Q- State ? 
+A-it is an object which decides houw a specifc component renders and how it behaves.
+ the state stores the information which can be changed over the lifetime of a React component.
+
+Q-Hooks?Why use Hooks ? Name 4 hooks ? 
+A-Hooks is a new feature that has been introduced to React in order to make dynamix data manipulation easier.
+Allows you to use state , and other React features without writing a class.
+4hooks :use state , use effect , use params , useSelector...
+
+Q-Router? why use Router ? 
+A-React Router is a standard library 
+Q-Live cycle component ?
+A-

@@ -1,0 +1,8 @@
+FE ------------ BE
+interface ---- request-----> server side
+         Api : application programming interface
+         <----------------res
+node.js(asynchrone)
+
+JSON: JavaScript object notation
+HTTP requests : GET/POST/DELETE/PUT
